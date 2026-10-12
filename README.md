@@ -33,6 +33,23 @@ Here are three core projects showcasing end-to-end competencies across batch lak
 * **Monitoring & Tools:** Prometheus, Grafana, Docker, Apache Airflow, Power BI, Git / GitHub, Linux
 
 ---
+# Data Analysis & EDA Portfolio Case Studies
+
+<details>
+<summary><b>Click to expand all data analysis projects (Python, Pandas, SQL)</b></summary>
+
+* **[Cleaning Bank Marketing Campaign Data](https://www.datacamp.com/datalab/w/ad7b5385-bd99-4aa0-905f-4d44a9635902/edit)**: Normalized a flat marketing dataset into structured SQL tables (client, campaign, economics), standardized and engineered fields using Python (Pandas), and designed PostgreSQL-optimized schemas. *(Jun 2026)*
+* **[Pharmaceutical Sales Trends Analysis](https://docs.google.com/document/d/1gQaASQGZo1IHodIZNR3KDJ0IhrTzRx--nYC6drWMPQ8/edit?pli=1&tab=t.0)**: Analyzed sales data using Python (Pandas) to map drug classifications, identify seasonal demand peaks, and provide inventory planning recommendations. *(Feb 2026)*
+* **[Motorcycle Part Sales Analysis](https://www.datacamp.com/datalab/w/82bad234-7fea-4037-8171-9183889eabab/edit)**: Applied SQL for data wrangling, wholesale net revenue calculation, product line ranking, and analyzing warehouse/month variations. *(Jan 2026)*
+* **[Analyzing Students' Mental Health](https://www.datacamp.com/datalab/w/51fe55f7-9631-468b-a05b-050b23a1d290/edit)**: Analyzed survey data with PostgreSQL to study links between social connectedness, acculturative stress, depression, and length of stay. *(Dec 2025)*
+* **[Hypothesis Testing with Men's and Women's Soccer Matches](https://www.datacamp.com/datalab/w/bc926884-37ef-46cd-bd22-f35686ec0646/edit)**: Applied hypothesis testing and statistical inference on soccer match data using Python, demonstrating that women's games have significantly more goals. *(Oct 2025)*
+* **[Visualizing the History of Nobel Prize Winners](https://www.datacamp.com/datalab/w/cc38b91f-9650-42e1-bc7b-c55179c70acb/edit)**: Analyzed historical Nobel Prize data through coding and visualization to reveal long-term trends and biases. *(Oct 2025)*
+* **[Exploring NYC Public School Test Result Scores](https://www.datacamp.com/datalab/w/ce9a236e-0b32-4216-9d45-de7fad50b7c4/edit)**: Identified top-performing schools and borough-level score variability using Python (Pandas, NumPy) for data cleaning, aggregation, and statistical analysis. *(Sep 2025)*
+* **[Investigating Netflix Movies](https://www.datacamp.com/datalab/w/4efabbec-2936-4c64-a89f-87e4b2d73f8e/edit)**: Analyzed 1990s movie data using Python (Pandas) for data filtering, aggregation, duration identification, and trend extraction *(Sep 2025)*
+
+</details>
+
+---
 
 ## Core Data & Analytics Background
 
