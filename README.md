@@ -18,7 +18,7 @@ Here are three core projects showcasing end-to-end competencies across batch lak
 * **Architecture:** Apache Kafka, PySpark Structured Streaming, Apache HDFS, Apache Hive, Parquet.
 * **Overview:** Engineered a real-time event streaming pipeline to ingest live e-commerce transaction streams, process micro-batches using structured streaming, store columnar data efficiently in HDFS, and expose structured tables via Hive for analytical querying.
 
-### 3. [Stream PySpark Job Execution & Monitoring](https://github.com/salmahamdy246/pyspark-prometheus-grafana-monitoring)
+### 3. [Stream PySpark Job Execution & Monitoring](https://github.com/salmahamdy246/pyspark-prometheus-grafana-project)
 * **Architecture:** Apache Spark, Prometheus, Grafana, PromQL.
 * **Overview:** Designed a production-grade observability stack by configuring a Prometheus servlet sink within PySpark jobs, scraping live executor metrics, and building custom operational Grafana dashboards to track DAG scheduler health, active tasks, and CPU utilization.
 
