@@ -1,4 +1,4 @@
-# Hi there, I'm Salma Hamdy Omran 
+# Hi there, I'm Salma Hamdy 
 
 ###  Data Engineer | Cloud Lakehouse, Stream Processing & Monitoring
 
